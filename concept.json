@@ -1,0 +1,11 @@
+{
+  "slug": "account-abstraction-batcher",
+  "name": "AA Batcher",
+  "kind": "evm",
+  "description": "Compose ERC-4337-style user operations and visualize atomic batching overhead.",
+  "chain": "EVM + Solana",
+  "transactionVersion": 1,
+  "maxTransactionBytes": 4096,
+  "legacyTransactionBytes": 1232,
+  "status": "functional-prototype"
+}
