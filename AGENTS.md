@@ -8,7 +8,7 @@ Compose ERC-4337-style user operations and visualize atomic batching overhead.
 
 - Source: https://github.com/nirholas/account-abstraction-batcher
 - Primary language: HTML
-- License: Other (see the LICENSE file)
+- License: MIT (see the LICENSE file)
 
 ## Repository layout
 
